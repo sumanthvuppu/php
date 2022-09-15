@@ -11,6 +11,7 @@ include("inc/header.php"); ?>
 			<div class="wrapper">
 
 				<h2>May we suggest something? </h2>
+				<h1>adding new line<h1>
 				
 
         <ul class="items">
