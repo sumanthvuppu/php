@@ -12,6 +12,7 @@ include("inc/header.php"); ?>
 
 				<h2>May we suggest something? </h2>
 				<h1>adding new line<h1>
+					<h2> adding new sline additionally<h2>
 				
 
         <ul class="items">
